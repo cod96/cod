@@ -1,6 +1,6 @@
 <?php
 ob_start();
-define('API_KEY', '959353698:AAGZ9D6f6ErrEACvOq2_4vcONV3sEN7htjs');
+define('API_KEY', '1297794420:AAGqPUEDc0rkogT36ocpaYdI4MDCQKYdOkE');
 $admin = "378569270"; 
 $channel = "@tg_reklar";
 $bot = "reklarbot"; 
